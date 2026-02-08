@@ -1,3 +1,5 @@
+<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/da3351f5-1e45-4217-ad7e-428aff53e5d2" />
+
 *This project has been created as part of the 42 curriculum by wedos-sa.*
 
 ## Description
